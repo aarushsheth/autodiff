@@ -1,7 +1,6 @@
 # Value class starter code, with many functions taken out
 from math import exp, log
 
-
 class Value:
     def __init__(self, data, _children=(), _op=''):
         self.data = data
